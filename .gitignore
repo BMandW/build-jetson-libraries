@@ -1,0 +1,8 @@
+dist/
+.venv/
+pycuda-*
+scipy-*
+torchvision*
+*.tgz
+
+*.swp
